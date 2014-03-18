@@ -1,0 +1,497 @@
+文件夹 PATH 列表
+卷序列号为 0A10-3B9F
+D:\V\更新课程
+├─DB2数据库性能优化
+│  ├─第10周 DB2性能优化：最佳实践
+│  │      第10周 DB2性能优化：最佳实践.pdf
+│  │      第10周 DB2设计最佳实践.zip
+│  │      
+│  ├─第11周 某ERP数据库性能优化实战案例分享（1）：系统调优
+│  │      第11周 某ERP数据库性能优化实战案例.zip
+│  │      第11周 某ERP数据库性能优化案例.pdf
+│  │      
+│  ├─第12周 某ERP数据库性能优化实战案例分享（2）：数据库调优
+│  │      第12周 某数据采集平台DB2性能优化案例 .pdf
+│  │      第12周 某数据采集平台DB2性能优化案例 .zip
+│  │      
+│  ├─第1周 DB2基础：重点讲授架构、用户、实例、表空间、缓冲池、安全等重点概念。
+│  │      DB2设计与性能优化课程第1周.zip
+│  │      第1周 DB2基础.pdf
+│  │      第1课.TXT
+│  │      
+│  ├─第2周 DB2性能优化方法系统：包括经典三招、性能问题分析、使用PAT方法找到性能瓶颈、硬件规划等。
+│  │      第2周
+│  │      第2周 DB2性能优化方法系统.pdf
+│  │      第2课.TXT
+│  │      第二周 DB2性能优化方法系统.zip
+│  │      
+│  ├─第3周 DB2性能优化：从监控开始，包括监控方法学、操作系统监控、快照监控、管理试图监控、事件监控器、db2pd工具、db2top监控、Toad Spotlight监控等
+│  │      第3周 从监控开始.pdf
+│  │      第3课.TXT
+│  │      第三周 从监控开始.zip
+│  │      
+│  ├─第4周 DB2性能优化：配置参数调整，包括操作系统参数、注册表参数、DBM参数、DB参数、自动参数调整等
+│  │      第4周.pdf
+│  │      第4课.TXT
+│  │      第四周 DB2配置参数调整.zip
+│  │      
+│  ├─第5周 DB2性能优化：日志优化，包括日志优化三原则、日志原理、参数配置、日志性能监控等
+│  │      第5周 日志优化.zip
+│  │      第5周.pdf
+│  │      第5课.TXT
+│  │      
+│  ├─第6周 DB2性能优化：运维工具优化，包括Runstats、Reorg、Export、Import、Load、BackupRestore等
+│  │      第6周 DB2运维工具优化.zip
+│  │      第6周 运维工具优化.pdf
+│  │      第6课.TXT
+│  │      
+│  ├─第7周 DB2性能优化：锁机制深入解析，包括并发、隔离级、锁概念、DB2与Oracle锁机制对比等
+│  │      第7周 锁机制深入解析.zip
+│  │      第7周.pdf
+│  │      第7课.TXT
+│  │      
+│  ├─第8周 DB2性能优化：索引调优，包括索引的工作机制、索引设计与性能、索引设计向导等
+│  │      第8周 DB2索引优化.zip
+│  │      第8周.pdf
+│  │      
+│  └─第9周 DB2性能优化：SQL语句调优，包括监控找出问题SQL、获取访问计划、解读和分析访问计划、调优SQL语句的招式等
+│          第9周 SQL语句调优.pdf
+│          第9周 SQL语句调优.zip
+│          
+├─DOE技术及应用
+│  ├─第一课：预备知识1，统计学基本概念：显著性，统计功效，平方和。应用：识别R和SAS输出结果中的有用信息
+│  │      (英文)实验设计_明尼苏达大学.pdf
+│  │      DOE_week1.mp4
+│  │      DOE第一周视频资料地址.txt
+│  │      DOE第一周讲义.pdf
+│  │      第一周数学公式直观图.jpg
+│  │      第一周课程公式证明.pdf
+│  │      
+│  ├─第二课：预备知识2，如何用R和SAS进行统计学模拟。应用：样本量的选择
+│  │      (英文)实验设计_明尼苏达大学.pdf
+│  │      DOE_week2_1.mp4
+│  │      DOE_week2_2.mp4
+│  │      DOE_week2_3.mp4
+│  │      DOE_week2_4.mp4
+│  │      DOE第二周视频资料地址.txt
+│  │      DOE第二周讲义.pdf
+│  │      Lesson2_normal_distribution.R
+│  │      Lesson2_sample_size_simulation_version2.R
+│  │      
+│  └─资料
+│          (英文)卡内基梅隆大学_DOE.pdf
+│          R语言入门经典中文版.pdf
+│          SAS从入门到精通.pdf
+│          
+├─Hadoop 应用开发实战案例
+│  ├─作业
+│  │      1.txt
+│  │      2.txt
+│  │      3.txt
+│  │      
+│  ├─第10周 聚类算法应用，分析优质客户(Map-Reduce,Mahout)
+│  │      Hadoop_dev_10.pdf
+│  │      hadoop_dev_10.rar
+│  │      
+│  ├─第1周 Hadoop基础回顾
+│  │      Hadoop_dev_01.pdf
+│  │      hadoop_dev_01.rar
+│  │      Hadoop_v2_10.pdf
+│  │      hadoop_v2_10.rar
+│  │      
+│  ├─第2周 Hadoop应用情况综述
+│  │      Hadoop_dev_02.pdf
+│  │      hadoop_dev_02.rar
+│  │      第2周视频.txt
+│  │      
+│  ├─第3周 巨型网站日志系统分析，提取KPI数据(Map-Reduce)
+│  │      Hadoop_dev_03.pdf
+│  │      hadoop_dev_03.rar
+│  │      
+│  ├─第4周 电信运营商LBS应用，分析手机用户移动轨迹(Map-Reduce)
+│  │      Hadoop_dev_04.pdf
+│  │      hadoop_dev_04.rar
+│  │      作业.zip
+│  │      
+│  ├─第5周 电信运营商用户分析，通过通话指纹判断重入网用户(map-Reduce)
+│  │      Hadoop_dev_05.pdf
+│  │      hadoop_dev_05.rar
+│  │      small2.csv
+│  │      第5周视频.txt
+│  │      
+│  ├─第6周 电子商务推荐系统设计(Map-Reduce)
+│  │      Hadoop_dev_06.pdf
+│  │      hadoop_dev_06.rar
+│  │      
+│  ├─第7周 更复杂的推荐系统场景(Mahout)
+│  │      Hadoop_dev_07.pdf
+│  │      hadoop_dev_07.rar
+│  │      第7周作业.rar
+│  │      第7周视频.txt
+│  │      
+│  ├─第8周 社交网络，判断微博用户关系亲疏程度，发现社区(Pig)
+│  │      Hadoop_dev_08.pdf
+│  │      hadoop_dev_08.rar
+│  │      第8周作业.rar
+│  │      第8周视频.txt
+│  │      
+│  ├─第9周 在社交网络中衡量节点的重要程度(Map-Reduce)
+│  │  │  Hadoop_dev_09.pdf
+│  │  │  hadoop_dev_09.rar
+│  │  │  MRClassify.rar
+│  │  │  
+│  │  ├─代码
+│  │  │      AdjacencyMatrix.java
+│  │  │      Normal.java
+│  │  │      PageRank.java
+│  │  │      PageRankJob.java
+│  │  │      
+│  │  └─数据
+│  │          page.csv
+│  │          people.csv
+│  │          peoplerank.csv
+│  │          pr.csv
+│  │          
+│  └─资料
+│          adoop MapReduce Cookbook.pdf
+│          Hadoop MapReduce Cookbook.zip
+│          Hadoop_The_Definitive_Guide_3rdEd.pdf
+│          Manning.Mahout.in.Action.Oct.2011.pdf
+│          MapReduce_Design_Patterns.rar
+│          Programming Pig.pdf
+│          Programming.Hive.pdf
+│          
+├─Hadoop数据分析平台 V3
+│  ├─第1课 Hadoop的源起与体系介绍
+│  │      Hadoop_v3_01.pdf
+│  │      hadoop_v3_01.rar
+│  │      
+│  └─第2课 实施Hadoop 1.x和2.x集群，基于win的部署
+│          Hadoop_v3_02.pdf
+│          hadoop_v3_02.rar
+│          
+├─Mahout机器学习平台
+│  ├─第1周 机器学习、Mahout与Hadoop的过去，现在与未来
+│  │      Apache_Mahout_Cookbook.pdf
+│  │      Hadoop_v2_01.pdf
+│  │      hadoop_v2_01.rar
+│  │      Hadoop_v2_02.pdf
+│  │      hadoop_v2_02.rar
+│  │      mahout01.pdf
+│  │      mahout01.rar
+│  │      
+│  ├─第2周 推荐系统算法与架构剖析
+│  │      mahout02.pdf
+│  │      mahout02.rar
+│  │      
+│  ├─第3周 推荐系统应用案例
+│  │  │  3.txt
+│  │  │  mahout03.pdf
+│  │  │  mahout03.rar
+│  │  │  数据挖掘：概念与技术（中文第三版）.pdf
+│  │  │  
+│  │  ├─代码
+│  │  │      BookEvaluator.java
+│  │  │      BookFilterGenderResult.java
+│  │  │      BookResult.java
+│  │  │      RecommendFactory.java
+│  │  │      
+│  │  └─数据
+│  │          evaluator.csv
+│  │          rating.csv
+│  │          user.csv
+│  │          
+│  └─资料
+│          Data+Mining+Practical+Machine+Learning+Tools+and+Techniques+3rd+Edition.pdf
+│          Manning.Mahout.in.Action.Oct.2011.pdf
+│          Taming.pdf
+│          
+├─Openstack云系统
+│  ├─作业
+│  │      1.txt
+│  │      2.txt
+│  │      3.txt
+│  │      4.txt
+│  │      
+│  ├─第1周 Openstack云系统的源起与发展
+│  │      Openstack01.pdf
+│  │      Openstack01.rar
+│  │      
+│  ├─第2周 虚拟化原理与软件：VMWare，VirtualBox
+│  │      Openstack02.pdf
+│  │      Openstack02.rar
+│  │      
+│  ├─第3周 开源虚拟机软件：Xen，KVM
+│  │      Openstack03.pdf
+│  │      Openstack03.rar
+│  │      
+│  ├─第4周 初装Openstack
+│  │      Openstack04.pdf
+│  │      Openstack04.rar
+│  │      第4周课程视频.txt
+│  │      
+│  ├─第5周 管理Openstack权限
+│  │      Openstack05.pdf
+│  │      Openstack05.rar
+│  │      第5周课程视频.txt
+│  │      
+│  └─资料
+│          Cloud Computing Principles and Paradigms.pdf
+│          Openstack05.pdf
+│          Oreilly.Deploying.OpenStack.Jul.2011.pdf
+│          Packt.OpenStack Cloud Computing Cookbook.2012.pdf
+│          
+├─Oracle 数据库职业直通车（面向校园课程）
+│  ├─作业
+│  ├─准备课程：Oracle的就业，认证和职业规划
+│  │      准备课程-视频地址.txt
+│  │      准备课程：Oracle的就业，认证和职业规划.pdf
+│  │      准备课程：Oracle的就业，认证和职业规划.rar
+│  │      
+│  ├─第0课  准备课程：Oracle的就业，认证和职业规划
+│  │      准备课程-视频地址.txt
+│  │      准备课程：Oracle的就业，认证和职业规划.pdf
+│  │      准备课程：Oracle的就业，认证和职业规划.rar
+│  │      
+│  ├─第10课  数据字典
+│  │      第九课 Rman.pdf
+│  │      第九课 RMAN.rar
+│  │      第八课 数据备份和恢复及数据迁移.rar
+│  │      第八课 数据备份恢复及数据迁移.pdf
+│  │      
+│  ├─第11课  数据库的备份和恢复
+│  │      第十一课 事务和数据一致性（一）.rar
+│  │      第十二课 事务（二).rar
+│  │      第十课 flashback.rar
+│  │      
+│  ├─第12课 DBA日常工作内容和职责
+│  │      第十三课 Oracle安全管理和审计(1).rar
+│  │      第十四课 Oracle安全管理与审计(2).rar
+│  │      
+│  ├─第13课 Oracle的内存结构与后台进程
+│  │      第十五课 常用工具.rar
+│  │      第十六课 字符集.rar
+│  │      
+│  ├─第1课  轻松带你走进Oracle数据库的世界
+│  │      第一课-走进Oracle.pdf
+│  │      第一课-走进Oracle.rar
+│  │      第一课视频地址.txt
+│  │      
+│  ├─第2课  从最简单的SQL语句开始
+│  │      lesson2.rar
+│  │      第三课-Oracle的安装和配置.rar
+│  │      第二周视频.txt
+│  │      第二周课件.rar
+│  │      第二课视频地址.txt
+│  │      第四课-Oracle的文件.rar
+│  │      
+│  ├─第3课  Oracle数据库的安装和配置
+│  │      lesson5.rar
+│  │      Oracle经典教程(课程辅助教材).pdf
+│  │      第七课 数据库对象（2）.rar
+│  │      第三周视频.txt
+│  │      第三周课件.rar
+│  │      第二周视频.txt
+│  │      第二周课件.rar
+│  │      第六课 数据库对象（一）.rar
+│  │      
+│  ├─第4课  Oracle数据库的参数文件，控制文件,数据文件和日志文件
+│  │      第九章 pl sql 入门-存储过程和函数.rar
+│  │      第九课 PLSQL入门-存储过程和函数.pdf
+│  │      第八课 复杂一点的SQL.pdf
+│  │      第八课--复杂一点的SQL.rar
+│  │      第四课视频地址.txt
+│  │      
+│  ├─第5课  Oracle体系架构简述
+│  │      第12课 RAC & DG.pdf
+│  │      第12课 RAC &DG.rar
+│  │      第13课 做一名合格的DBA.pdf
+│  │      第13课 合格的DBA.rar
+│  │      第五课视频地址.txt
+│  │      第十一章 数据库的备份和恢复.rar
+│  │      第十一课 备份与恢复.pdf
+│  │      第十课 数据字典.pdf
+│  │      第十课 数据字典.rar
+│  │      
+│  ├─第6课  Oracle数据库的对象(1)
+│  │      第一课 DBA日常工作和职责.pdf
+│  │      第一课 DBA日常工作和职责.rar
+│  │      第二课 Oracle内存结构和后台进程.rar
+│  │      第二课 内存结构和后台进程.pdf
+│  │      第六课.rar
+│  │      第六课视频地址.txt
+│  │      
+│  ├─第7课  Oracle数据库的对象(2)
+│  │      第七周.rar
+│  │      第七周视频地址.txt
+│  │      第三课 重做日志和日志挖掘.pdf
+│  │      第三课 重做日志和日志挖掘.rar
+│  │      第四课 回滚.pdf
+│  │      第四课 回滚段.rar
+│  │      
+│  ├─第8课  复杂一些的SQL语句
+│  │      第五课  Oracle数据结构（一）.pdf
+│  │      第五课 Oracle数据结构(一）.rar
+│  │      第八周视频.txt
+│  │      第八课.rar
+│  │      第六课 Oracle数据结构.pdf
+│  │      第六课 Oracle数据结构（二）.rar
+│  │      
+│  ├─第9课  学写存储过程和函数
+│  │      第七章 ASM.pdf
+│  │      第七课 ASM.rar
+│  │      
+│  └─资料
+│          Oracle经典教程(课程辅助教材).pdf
+│          
+├─供应链 物流——永恒的管理艺术
+│  └─1 供应链 物流概览
+│          第一周课 供应链与物流概览.pdf
+│          第一课 供应链物流概览.mp4
+│          
+├─基于案例学SQL优化
+│  ├─第10周 从案例中弄清如何正确选择SQL性能工具
+│  │  │  10从案例中学习左右Oracle执行计划之妙法.pdf
+│  │  │  基于案例学SQL优化第10周脚本.rar
+│  │  │  基于案例进行SQL优化第10周课程.rar
+│  │  │  
+│  │  └─解压密码：293734367abc10
+│  ├─第11周 从案例中学习如何进行不改写SQL的优化
+│  │  │  11从案例中学会应用工具进行SQL整体优化.pdf
+│  │  │  基于案例学SQL第11周脚本.rar
+│  │  │  基于案例进行SQL优化第11周课程.rar
+│  │  │  第11周课程视频资源和地址.txt
+│  │  │  
+│  │  └─293734367abc11
+│  ├─第12周 从案例中感悟SQL等价改写优化思路之1
+│  │      12从案例中学习如何快速缩短SQL优化过程.pdf
+│  │      基于案例学SQL第12周脚本.rar
+│  │      基于案例进行SQL优化第12周课程.rar
+│  │      第12周课程视频资源和地址.txt
+│  │      
+│  ├─第13周 从案例中感悟SQL等价改写优化思路之2
+│  │      13从案例中感悟SQL等价改写优化思路之1.pdf
+│  │      基于案例学SQL第13周脚本.rar
+│  │      基于案例进行SQL优化第13周课程.rar
+│  │      第13周课程视频资源和地址.txt
+│  │      
+│  ├─第1周 从案例中推导SQL优化的总体思路与误区
+│  │      1从案例中推导SQL优化的总体思路与误区.pdf
+│  │      基于案例学SQL优化第1周脚本.rar
+│  │      基于案例进行SQL优化第1周课程(上).rar
+│  │      基于案例进行SQL优化第1周课程(下).rar
+│  │      第1周课程视频资源和地址.txt
+│  │      
+│  ├─第2周 从案例中分析体系结构如何左右SQL性能
+│  │      2从案例中分析体系结构如何左右SQL性能.pdf
+│  │      基于案例SQL优化第2周视频.rar
+│  │      基于案例学习SQL优化第2周脚本.rar
+│  │      基于案例进行SQL优化第2周课程(上).mp4
+│  │      基于案例进行SQL优化第2周课程(下).mp4
+│  │      第2周课程视频资源和地址.txt
+│  │      
+│  ├─第3周 从案例中体验逻辑结构如何影响SQL优化
+│  │      3从案例中体验逻辑结构如何影响SQL优化.pdf
+│  │      基于案例学SQL优化第3周脚本.rar
+│  │      基于案例进行SQL优化第3周课程.rar
+│  │      第3周课程视频资源和地址.txt
+│  │      
+│  ├─第4周 从案例中探寻表设计对SQL优化的重要性
+│  │      4从案例中探寻表设计对SQL优化的重要性.pdf
+│  │      基于案例学SQL优化第4周脚本.rar
+│  │      基于案例进行SQL优化第4周课程.rar
+│  │      第4周课程视频资源和地址.txt
+│  │      
+│  ├─第5周 从案例中明白索引是如何让SQL运行飞快
+│  │      5从案例中明白索引是如何让SQL运行飞快.pdf
+│  │      基于案例学SQL优化第5周脚本.rar
+│  │      基于案例进行SQL优化第5周课程.rar
+│  │      第5周课程视频资源和地址.txt
+│  │      
+│  ├─第6周 从案例中体会函数及位图索引与SQL优化
+│  │  │  6从案例中体会函数及位图索引与SQL优化.pdf
+│  │  │  基于案例学SQL优化第6周脚本.rar
+│  │  │  基于案例进行SQL优化第6周课程.rar
+│  │  │  第6周课程视频资源和地址.txt
+│  │  │  
+│  │  └─解压密码：293734367abc6
+│  ├─第7周 从案例中洞察表连接与SQL优化之间关系
+│  │  │  7从案例中体会函数及位图索引与SQL优化.pdf
+│  │  │  基于案例学SQL优化第7周脚本.rar
+│  │  │  基于案例进行SQL优化第7周课程.rar
+│  │  │  
+│  │  └─解压密码：293734367abc7
+│  ├─第8周 从案例中收获SQL改写优化的思路与技巧
+│  │      8从案例中洞察表连接与SQL优化之间关系.pdf
+│  │      基于案例学SQL优化第8周脚本.rar
+│  │      基于案例进行SQL优化第8周课程.rar
+│  │      
+│  └─第9周 从案例中探讨该如何分析读懂析执行计划
+│          9从案例中探讨该如何分析读懂析执行计划.pdf
+│          基于案例学SQL优化第9周脚本.rar
+│          基于案例进行SQL优化第9周课程.rar
+│          
+└─快速数据挖掘平台 RapidMiner
+    ├─第一周：数据挖掘基本知识RapidMiner工具介绍
+    │      01.数据挖掘及工具简介.rar
+    │      RapidMiner.01.数据挖掘及工具简介.pdf
+    │      第一课资源下载地址.txt
+    │      
+    ├─第七周：文本挖掘
+    │      07.文本挖掘.rar
+    │      RapidMiner.07.文本挖掘.pdf
+    │      
+    ├─第三周：关联分析、关联规则
+    │      RapidMiner.03.关联分析.pdf
+    │      RapidMiner.03.关联分析、关联规则.rar
+    │      RapidMiner.03.关联规则.pdf
+    │      第三课资源下载地址.txt
+    │      
+    ├─第九周：协同过滤、推荐
+    │      09.web挖掘（下）.rar
+    │      
+    ├─第二周：数据导入、预处理、导出
+    │  │  RapidMiner.02.数据准备：导入、预处理、导出.pdf
+    │  │  RapidMiner.02.数据准备：导入、预处理、导出.rar
+    │  │  
+    │  └─mysql
+    │          mysql-connector-java-commercial-5.1.27-bin.jar
+    │          MySQL_5.6.14_Windows x86 (64bit).zip
+    │          Navicat Premium v11.0.12 特别版 x86 x64_ttrar.com.rar
+    │          navicat110_premium_cs_x64(11.0.12).rar
+    │          txt.txt
+    │          
+    ├─第五周：线性回归、逻辑回归
+    │      05.线性回归、逻辑回归.rar
+    │      RapidMiner.05.线性回归、逻辑回归.pdf
+    │      
+    ├─第八周：WEB挖掘
+    │      08.web挖掘.rar
+    │      RapidMiner.08.web挖掘.pdf
+    │      
+    ├─第六周：决策树、神经网络
+    │      06.决策树、神经网络.rar
+    │      RapidMiner.06.决策树、神经网络.pdf
+    │      
+    ├─第十一周：离群点分析
+    │      11.模型评估、优化.rar
+    │      
+    ├─第十三周：宏、循环、分支判断、异常处理
+    │      13.宏、循环、数据集处理.rar
+    │      
+    ├─第十二周：模型评估-交叉验证与模型优化化
+    │      12.时间序列.rar
+    │      
+    ├─第十周：时间序列分析
+    │      10.推荐系统.rar
+    │      
+    ├─第四周：K-Means 聚类、辨别分析
+    │      04.K-Means 聚类、辨别分析.rar
+    │      RapidMiner.04.K-Means聚类、辨别分析.pdf
+    │      
+    └─软件
+            rapidminer-5.3.015x32-install.exe
+            rapidminer-5.3.015x64-install.exe
+            rapidminer-studio-6.0.001x32-install.exe
+            rapidminer-studio-6.0.001x64-install.exe
+            

@@ -24,7 +24,7 @@
 * 第四次 购买 全套课程 1200（1500-300=1200）---------累计消费1500 升级VIP
 
 
-## 试看课程 http://pan.baidu.com/s/1pJDahkR
+## 试看课程 http://pan.baidu.com/s/1pJ36FDT
 ## 完整课程 http://pan.baidu.com/s/1hq61rMW
 
 

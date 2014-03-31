@@ -24,7 +24,7 @@
 * 第四次 购买 全套课程 1200（1500-300=1200）---------累计消费1500 升级VIP
 
 
-## 试看课程 http://pan.baidu.com/s/1pJ36FDT
+## 试看课程 http://pan.baidu.com/s/1tid10
 ## 完整课程 http://pan.baidu.com/s/1hq61rMW
 
 
@@ -37,47 +37,63 @@
               <tbody>
                 <tr>
                   <td><span class="STYLE1"><a href="http://pan.baidu.com/s/1o6M585k">比特币</a></span></td>
-                  <td><span class="STYLE1">2014.01.09以开课</span></td>
+                  <td><span class="STYLE1">2014.01.09 以开课</span></td>
                 </tr>
                 <tr>
                   <td><span class="STYLE1"><a href="http://pan.baidu.com/s/1kTzBfkN">数据库设计</a></span></td>
-                  <td><span class="STYLE1">2014.01.13以开课</span></td>
+                  <td><span class="STYLE1">2014.01.13 以开课</span></td>
                 </tr>
                 <tr>
                   <td><span class="STYLE1"><a href="http://pan.baidu.com/s/1qWLf8wW">Mahout机器学习平台</a></span></td>
-                  <td><span class="STYLE1">2014.01.15以开课</span></td>
+                  <td><span class="STYLE1">2014.01.15 以开课</span></td>
                 </tr>
                 <tr>
                   <td><span class="STYLE1"><a href="http://pan.baidu.com/s/1mgsh3qo">Hadoop数据分析平台 第三版</a></td>
-                  <td><span class="STYLE1">2014.02.28 已报名</span></td>
+                  <td><span class="STYLE1">2014.02.28 以开课</span></td>
                 </tr>
                 <tr>
                   <td><span class="STYLE1"><a href="http://pan.baidu.com/s/1c09sLkW">DOE技术及应用</a></span></td>
-                  <td><span class="STYLE1">2014.03.05 已报名</span></td>
+                  <td><span class="STYLE1">2014.03.05 以开课</span></td>
                 </tr>
                 <tr>
                   <td><span class="STYLE1"><a href="http://pan.baidu.com/s/1nthWepz">供应链/物流——永恒的管理艺术</a></span></td>
-                  <td><span class="STYLE1">2014.03.12 已报名</span></td>
+                  <td><span class="STYLE1">2014.03.12 以开课</span></td>
                 </tr>
                 <tr>
                   <td><span class="STYLE1"><a href="http://pan.baidu.com/s/1o6jWdTK">大数据的Java基础</a></span></td>
-                  <td><span class="STYLE1">2014.03.19 已报名</span></td>
+                  <td><span class="STYLE1">2014.03.19 以开课</span></td>
                 </tr>
                 <tr>
                   <td><span class="STYLE1"><a href="http://pan.baidu.com/s/1gdutKkF">机器学习</span></td>
-                  <td><span class="STYLE1">2014.03.22 已报名</span></td>
+                  <td><span class="STYLE1">2014.03.22 以开课</span></td>
                 </tr>
                 <tr>
-                  <td><span class="STYLE2">数据库系统实现原理</span></td>
-                  <td><span class="STYLE2">2014.03.24 已报名</span></td>
-                </tr>
-                <tr>
-                  <td><span class="STYLE2"> 大数据的统计学基础</span></td>
+                  <td><span class="STYLE2">大数据的统计学基础</span></td>
                   <td><span class="STYLE2">2014.04.05 已报名</span></td>
                 </tr>
                 <tr>
-                  <td><span class="STYLE2"> 业务流程管理引航</span></td>
+                  <td><span class="STYLE2">业务流程管理引航</span></td>
                   <td><span class="STYLE2">2014.04.07 已报名</span></td>
+                </tr>
+                <tr>
+                  <td><span class="STYLE2">玩转树莓派</span></td>
+                  <td><span class="STYLE2">2014.04.09 已报名</span></td>
+                </tr>
+                <tr>
+                  <td><span class="STYLE2">NoSQL与NewSQL数据库引航</span></td>
+                  <td><span class="STYLE2">2014.04.14 已报名</span></td>
+                </tr>
+                <tr>
+                  <td><span class="STYLE2">详解SQL与PL/SQL</span></td>
+                  <td><span class="STYLE2">2014.04.23 已报名</span></td>
+                </tr>
+                <tr>
+                  <td><span class="STYLE2">数据库系统实现原理</span></td>
+                  <td><span class="STYLE2">2014.04.24 已报名</span></td>
+                </tr>
+                <tr>
+                  <td><span class="STYLE2">数据库引擎与SQL优化器开发</span></td>
+                  <td><span class="STYLE2">2014.04.26 已报名</span></td>
                 </tr>
               </tbody>
             </table>
@@ -85,44 +101,44 @@
   </div>
 * 
 <div>
-  <p><strong>更新中课程 (蓝色为最新更新 更新时间 <span class="STYLE2">2014-03-21</span>)</strong></p>
+  <p><strong>更新中课程 (蓝色为最新更新 更新时间 <span class="STYLE2">2014-03-28</span>)</strong></p>
   <div>
     <div>
       <table border="0">
         <tbody>
           <tr>
+            <td><span class="STYLE2">机器学习</span></td>
+            <td><span class="STYLE2">更新到 第1课</span></td>
+            <td><span class="STYLE2"><a href="http://pan.baidu.com/s/1jG2vjUY">下载课程</a></span></td>
+          </tr>
+          <tr>
             <td><span class="STYLE1">DOE技术及应用</span></td>
-            <td><span class="STYLE1">更新到 第2课</span></td>
+            <td><span class="STYLE1">更新到 第3课</span></td>
             <td><span class="STYLE1"><a href="http://pan.baidu.com/s/1c09sLkW">下载课程</a></span></td>
           </tr>
           <tr>
-            <td><span class="STYLE1">大数据的Java基础</td>
-            <td><span class="STYLE1">更新到 第2课</td>
-            <td><span class="STYLE1"><a href="http://pan.baidu.com/s/1o6jWdTK">下载课程</a></td>
+            <td><span class="STYLE0">大数据的Java基础</td>
+            <td><span class="STYLE0">更新到 第2课</td>
+            <td><span class="STYLE0"><a href="http://pan.baidu.com/s/1o6jWdTK">下载课程</a></td>
           </tr>
           <tr>
             <td><span class="STYLE1">Hadoop数据分析平台 第三版</span></td>
-            <td><span class="STYLE1">更新到 第4课</span></td>
+            <td><span class="STYLE1">更新到 第5课</span></td>
             <td><span class="STYLE1"><a href="http://pan.baidu.com/s/1mgsh3qo">下载课程</a></span></td>
           </tr>
           <tr>
             <td><span class="STYLE1">供应链/物流——永恒的管理艺术</span></td>
-            <td><span class="STYLE1">更新到 第2课</span></td>
+            <td><span class="STYLE1">更新到 第3课</span></td>
             <td><span class="STYLE1"><a href="http://pan.baidu.com/s/1nthWepz">下载课程</a></span></td>
           </tr>
           <tr>
-            <td><span class="STYLE1">Mahout机器学习平台</span></td>
-            <td><span class="STYLE1">更新到 第4课</span></td>
-            <td><span class="STYLE1"><a href="http://pan.baidu.com/s/1qWLf8wW">下载课程</a></span></td>
-          </tr>
-          <tr>
-            <td><span class="STYLE1">快速数据挖掘平台 RapidMiner(完结)</td>
-            <td><span class="STYLE1">更新到 第14课</td>
-            <td><span class="STYLE1"><a href="http://pan.baidu.com/s/1hql4piG">下载课程</a></span></td>
+            <td><span class="STYLE0">Mahout机器学习平台</span></td>
+            <td><span class="STYLE0">更新到 第4课</span></td>
+            <td><span class="STYLE0"><a href="http://pan.baidu.com/s/1qWLf8wW">下载课程</a></span></td>
           </tr>
           <tr>
             <td><span class="STYLE1">Hadoop应用开发实战案例</span></td>
-            <td><span class="STYLE1">更新到 第10课</span></td>
+            <td><span class="STYLE1">更新到 第11课</span></td>
             <td><span class="STYLE1"><a href="http://pan.baidu.com/s/1gdFYzIV">下载课程</a></span></td>
           </tr>
           <tr>
@@ -131,9 +147,9 @@
             <td><span class="STYLE0"><a href="http://pan.baidu.com/s/1eQqrZKu">下载课程</a></span></td>
           </tr>
           <tr>
-            <td><span class="STYLE0">DB2数据库性能优化</span></td>
-            <td><span class="STYLE0">更新到 第12课</span></td>
-            <td><span class="STYLE0"><a href="http://pan.baidu.com/s/1gdoUdcJ">下载课程</a></span></td>
+            <td><span class="STYLE3">DB2数据库性能优化(完结)</span></td>
+            <td><span class="STYLE3">更新到 第12课</span></td>
+            <td><span class="STYLE3"><a href="http://pan.baidu.com/s/1gdoUdcJ">下载课程</a></span></td>
           </tr>
           <tr>
             <td><span class="STYLE0">基于案例学SQL优</span></td>
@@ -155,7 +171,7 @@
   <p><strong><span class="STYLE4">以下是完成课程 <span class="STYLE2">(所有课程也单卖,详细QQ: 2564981251</span></span>)</strong></p>
   <div>
     <div>
-    	<table border="0">
+        <table border="0">
                 <tbody>
                   <tr>
                     <td>Hadoop 数据分析<br></td>
@@ -273,12 +289,81 @@
                     <td><span class="STYLE3">快速数据挖掘平台 RapidMiner</span><br></td>
                     <td><span class="STYLE3">共14课</span><br></td>
                   </tr>
+                  <tr>
+                    <td><span class="STYLE3">DB2数据库性能优化</span><br></td>
+                    <td><span class="STYLE3">共12课(官方发布到第12课,就说已经结课了,有疑问请咨询官方)</span><br></td>
+                  </tr>
                 </tbody>
               </table>
     </div>
   </div>
 
 ---------------
+<div>
+  <p><strong>更新中课程 (蓝色为最新更新 更新时间 <span class="STYLE2">2014-03-21</span>)</strong></p>
+  <div>
+    <div>
+      <table border="0">
+        <tbody>
+          <tr>
+            <td><span class="STYLE1">DOE技术及应用</span></td>
+            <td><span class="STYLE1">更新到 第2课</span></td>
+            <td><span class="STYLE1"><a href="http://pan.baidu.com/s/1c09sLkW">下载课程</a></span></td>
+          </tr>
+          <tr>
+            <td><span class="STYLE1">大数据的Java基础</td>
+            <td><span class="STYLE1">更新到 第2课</td>
+            <td><span class="STYLE1"><a href="http://pan.baidu.com/s/1o6jWdTK">下载课程</a></td>
+          </tr>
+          <tr>
+            <td><span class="STYLE1">Hadoop数据分析平台 第三版</span></td>
+            <td><span class="STYLE1">更新到 第4课</span></td>
+            <td><span class="STYLE1"><a href="http://pan.baidu.com/s/1mgsh3qo">下载课程</a></span></td>
+          </tr>
+          <tr>
+            <td><span class="STYLE1">供应链/物流——永恒的管理艺术</span></td>
+            <td><span class="STYLE1">更新到 第2课</span></td>
+            <td><span class="STYLE1"><a href="http://pan.baidu.com/s/1nthWepz">下载课程</a></span></td>
+          </tr>
+          <tr>
+            <td><span class="STYLE1">Mahout机器学习平台</span></td>
+            <td><span class="STYLE1">更新到 第4课</span></td>
+            <td><span class="STYLE1"><a href="http://pan.baidu.com/s/1qWLf8wW">下载课程</a></span></td>
+          </tr>
+          <tr>
+            <td><span class="STYLE1">快速数据挖掘平台 RapidMiner(完结)</td>
+            <td><span class="STYLE1">更新到 第14课</td>
+            <td><span class="STYLE1"><a href="http://pan.baidu.com/s/1hql4piG">下载课程</a></span></td>
+          </tr>
+          <tr>
+            <td><span class="STYLE1">Hadoop应用开发实战案例</span></td>
+            <td><span class="STYLE1">更新到 第10课</span></td>
+            <td><span class="STYLE1"><a href="http://pan.baidu.com/s/1gdFYzIV">下载课程</a></span></td>
+          </tr>
+          <tr>
+            <td><span class="STYLE0">Oracle数据库职业直通车(面向校园课程)</span></td>
+            <td><span class="STYLE0">更新到 第13课</span></td>
+            <td><span class="STYLE0"><a href="http://pan.baidu.com/s/1eQqrZKu">下载课程</a></span></td>
+          </tr>
+          <tr>
+            <td><span class="STYLE0">DB2数据库性能优化</span></td>
+            <td><span class="STYLE0">更新到 第12课</span></td>
+            <td><span class="STYLE0"><a href="http://pan.baidu.com/s/1gdoUdcJ">下载课程</a></span></td>
+          </tr>
+          <tr>
+            <td><span class="STYLE0">基于案例学SQL优</span></td>
+            <td><span class="STYLE0">更新到 第13课</span></td>
+            <td><span class="STYLE0"><a href="http://pan.baidu.com/s/1c0BuRAw">下载课程</a></span></td>
+          </tr>
+          <tr>
+            <td><span class="STYLE0">Openstack云系统</span></td>
+            <td><span class="STYLE0">更新到 第5课</span></td>
+            <td><span class="STYLE0"><a href="http://pan.baidu.com/s/1jG80Jye">下载课程</a></span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
 <div>
   <p><strong>更新中课程 (蓝色为最新更新 更新时间 <span class="STYLE2">2014-03-14</span>)</strong></p>
   <div>

@@ -32,6 +32,25 @@ D:\V\更新课程
 |   |       Lesson2_normal_distribution.R
 |   |       Lesson2_sample_size_simulation_version2.R
 |   |       
+|   +---第五课：局部控制试验：随机分块设计。应用：戴尔如何进行硬件供应商质量调查
+|   |       DOE_week5_1.mp4
+|   |       DOE_week5_2.mp4
+|   |       DOE第五周讲义.pdf
+|   |       hw4.sas
+|   |       hw5_ECom.txt
+|   |       lesson5.sas
+|   |       lesson5data.sas
+|   |       
+|   +---第四课：普适试验：完全随机设计。应用：团购商户的折扣VS成交量分析
+|   |       DMD_Lesson4.txt
+|   |       DOE_lesson4_1.mp4
+|   |       DOE_lesson4_2.mp4
+|   |       DOE_lesson4_3.mp4
+|   |       DOE_lesson4_4.mp4
+|   |       DOE第四周讲义.pdf
+|   |       lesson4.sas
+|   |       randomization_lesson3_solution.R
+|   |       
 |   \---资料
 |           (英文)卡内基梅隆大学_DOE.pdf
 |           R语言入门经典中文版.pdf
@@ -49,8 +68,10 @@ D:\V\更新课程
 |   |       Homework_Code_Data.zip
 |   |       
 |   +---第11周 金融数据分析，从历史数据中提取逆回购信息(Hive)
+|   |       000000_0.txt
 |   |       Hadoop_dev_11.pdf
 |   |       hadoop_dev_11.rar
+|   |       homework11.zip
 |   |       
 |   +---第1周 Hadoop基础回顾
 |   |       Hadoop_dev_01.pdf
@@ -180,6 +201,19 @@ D:\V\更新课程
 |           Data+Mining+Practical+Machine+Learning+Tools+and+Techniques+3rd+Edition.pdf
 |           Manning.Mahout.in.Action.Oct.2011.pdf
 |           Taming.pdf
+|           
++---NoSQL与NewSQL数据库引航
+|   +---第1周 进入NoSQL世界，NoSQL与SQL的战争。NewSQL兴起
+|   |       NoSQLNewSQL01.rar
+|   |       NoSQL与NewSQL数据库引航01.pdf
+|   |       
+|   \---资料
+|           Cassandra_The_Definitive_Guide.pdf
+|           MongoDB.pdf
+|           MongoDB_The_Definitive_Guide.pdf
+|           NoSQL与NewSQL数据库引航01.pdf
+|           Redis_Cookbook.pdf
+|           Seven_Databases_in_Seven_Weeks.pdf
 |           
 +---Openstack云系统
 |   +---作业
@@ -327,91 +361,17 @@ D:\V\更新课程
 |   +---第2周 IT在供应链 物流中的作用
 |   |       第二周.rar
 |   |       
-|   \---第3周 供应链 物流的几大效应以及解决方法
-|           供应链的三大效应.mp4
-|           第三周 供应链的三大效应.pdf
-|           
-+---基于案例学SQL优化
-|   +---第10周 从案例中弄清如何正确选择SQL性能工具
-|   |   |   10从案例中学习左右Oracle执行计划之妙法.pdf
-|   |   |   基于案例学SQL优化第10周脚本.rar
-|   |   |   基于案例进行SQL优化第10周课程.rar
-|   |   |   
-|   |   \---解压密码：293734367abc10
-|   +---第11周 从案例中学习如何进行不改写SQL的优化
-|   |   |   11从案例中学会应用工具进行SQL整体优化.pdf
-|   |   |   基于案例学SQL第11周脚本.rar
-|   |   |   基于案例进行SQL优化第11周课程.rar
-|   |   |   第11周课程视频资源和地址.txt
-|   |   |   
-|   |   \---293734367abc11
-|   +---第12周 从案例中感悟SQL等价改写优化思路之1
-|   |       12从案例中学习如何快速缩短SQL优化过程.pdf
-|   |       基于案例学SQL第12周脚本.rar
-|   |       基于案例进行SQL优化第12周课程.rar
-|   |       第12周课程视频资源和地址.txt
+|   +---第3周 供应链 物流的几大效应以及解决方法
+|   |       供应链的三大效应.mp4
+|   |       第三周 供应链的三大效应.pdf
 |   |       
-|   +---第13周 从案例中感悟SQL等价改写优化思路之2
-|   |       13从案例中感悟SQL等价改写优化思路之1.pdf
-|   |       基于案例学SQL第13周脚本.rar
-|   |       基于案例进行SQL优化第13周课程.rar
-|   |       第13周课程视频资源和地址.txt
+|   +---第4周 供应链 物流与企业的应用发展
+|   |       第四周 供应链管理在企业中的应用.mp4
+|   |       第四周 供应链管理在企业中的应用.pdf
 |   |       
-|   +---第1周 从案例中推导SQL优化的总体思路与误区
-|   |       1从案例中推导SQL优化的总体思路与误区.pdf
-|   |       基于案例学SQL优化第1周脚本.rar
-|   |       基于案例进行SQL优化第1周课程(上).rar
-|   |       基于案例进行SQL优化第1周课程(下).rar
-|   |       第1周课程视频资源和地址.txt
-|   |       
-|   +---第2周 从案例中分析体系结构如何左右SQL性能
-|   |       2从案例中分析体系结构如何左右SQL性能.pdf
-|   |       基于案例SQL优化第2周视频.rar
-|   |       基于案例学习SQL优化第2周脚本.rar
-|   |       基于案例进行SQL优化第2周课程(上).mp4
-|   |       基于案例进行SQL优化第2周课程(下).mp4
-|   |       第2周课程视频资源和地址.txt
-|   |       
-|   +---第3周 从案例中体验逻辑结构如何影响SQL优化
-|   |       3从案例中体验逻辑结构如何影响SQL优化.pdf
-|   |       基于案例学SQL优化第3周脚本.rar
-|   |       基于案例进行SQL优化第3周课程.rar
-|   |       第3周课程视频资源和地址.txt
-|   |       
-|   +---第4周 从案例中探寻表设计对SQL优化的重要性
-|   |       4从案例中探寻表设计对SQL优化的重要性.pdf
-|   |       基于案例学SQL优化第4周脚本.rar
-|   |       基于案例进行SQL优化第4周课程.rar
-|   |       第4周课程视频资源和地址.txt
-|   |       
-|   +---第5周 从案例中明白索引是如何让SQL运行飞快
-|   |       5从案例中明白索引是如何让SQL运行飞快.pdf
-|   |       基于案例学SQL优化第5周脚本.rar
-|   |       基于案例进行SQL优化第5周课程.rar
-|   |       第5周课程视频资源和地址.txt
-|   |       
-|   +---第6周 从案例中体会函数及位图索引与SQL优化
-|   |   |   6从案例中体会函数及位图索引与SQL优化.pdf
-|   |   |   基于案例学SQL优化第6周脚本.rar
-|   |   |   基于案例进行SQL优化第6周课程.rar
-|   |   |   第6周课程视频资源和地址.txt
-|   |   |   
-|   |   \---解压密码：293734367abc6
-|   +---第7周 从案例中洞察表连接与SQL优化之间关系
-|   |   |   7从案例中体会函数及位图索引与SQL优化.pdf
-|   |   |   基于案例学SQL优化第7周脚本.rar
-|   |   |   基于案例进行SQL优化第7周课程.rar
-|   |   |   
-|   |   \---解压密码：293734367abc7
-|   +---第8周 从案例中收获SQL改写优化的思路与技巧
-|   |       8从案例中洞察表连接与SQL优化之间关系.pdf
-|   |       基于案例学SQL优化第8周脚本.rar
-|   |       基于案例进行SQL优化第8周课程.rar
-|   |       
-|   \---第9周 从案例中探讨该如何分析读懂析执行计划
-|           9从案例中探讨该如何分析读懂析执行计划.pdf
-|           基于案例学SQL优化第9周脚本.rar
-|           基于案例进行SQL优化第9周课程.rar
+|   \---第5周 供应链高级计划管理—APS
+|           第五周 供应链高级计划管理APS.mp4
+|           第五周 供应链高级计划管理APS.pdf
 |           
 +---大数据的Java基础
 |   +---第1课 JDK的安装配置，Java基本知识
@@ -421,30 +381,67 @@ D:\V\更新课程
 |   |       Test.java
 |   |       第一周.pdf
 |   |       
-|   \---第2课 语法基础——数据类型以及基本语法
-|           examples.zip
+|   +---第2课 语法基础——数据类型以及基本语法
+|   |       examples.zip
+|   |       part1.mp4
+|   |       part2.mp4
+|   |       part3.mp4
+|   |       第二周.pdf
+|   |       
+|   +---第3课 Java OO的基本介绍，类、接口、方法以及访问控制
+|   |       part1.mp4
+|   |       part2.mp4
+|   |       part3.mp4
+|   |       
+|   \---第4课 Java的集合类——数组、Set、List、Map、Queue
+|           CollectionsTest.java
 |           part1.mp4
 |           part2.mp4
 |           part3.mp4
-|           第二周.pdf
+|           第四周.pdf
 |           
-\---机器学习
-    |   更新记录.txt
-    |   
-    +---第1课 机器学习概论
-    |       ML01.pdf
-    |       ML01.rar
-    |       更新记录.txt
-    |       
-    \---资料
-            DM_Practical_ML_Tools_and_Techs.rar
-            MIT.Foundations of ML.pdf
-            MIT.Introduction to ML.2Ed.pdf
-            ML.part1.rar
-            ML.part2.rar
-            ML.part3.rar
-            数据挖掘中文第三版.part1.rar
-            数据挖掘中文第三版.part2.rar
-            数据挖掘中文第三版.part3.rar
-            数据挖掘中文第三版.part4.rar
++---大数据的统计学基础
+|   +---第1周 面向小白的统计学：描述性统计（均值，中位数，众数，方差，标准差，与常见的统计图表）
+|   |       stat01.pdf
+|   |       stat01.rar
+|   |       
+|   +---第2周 赌博设计：概率的基本概念，古典概型
+|   |       stat02.pdf
+|   |       stat02.rar
+|   |       
+|   \---资料
+|           [概率论与数理统计习题全解指南].盛骤.扫描版(ED2000.COM).pdf
+|           《概率论与数理统计》浙大版（第四版）教材.pdf
+|           
++---机器学习
+|   +---第1课 机器学习概论
+|   |       ML01.pdf
+|   |       ML01.rar
+|   |       更新记录.txt
+|   |       
+|   +---第2课 线性回归与Logistic。案例：电子商务业绩预测
+|   |       ML02.pdf
+|   |       ML02.rar
+|   |       R-modeling.rar
+|   |       top_1000_sites.tsv
+|   |       假设检验讲解.mp4
+|   |       薛毅书源程序.rar
+|   |       薛毅书源程序_20140407222640.rar
+|   |       
+|   \---资料
+|           DM_Practical_ML_Tools_and_Techs.rar
+|           MIT.Foundations of ML.pdf
+|           MIT.Introduction to ML.2Ed.pdf
+|           ML.part1.rar
+|           ML.part2.rar
+|           ML.part3.rar
+|           数据挖掘中文第三版.part1.rar
+|           数据挖掘中文第三版.part2.rar
+|           数据挖掘中文第三版.part3.rar
+|           数据挖掘中文第三版.part4.rar
+|           
+\---玩转树莓派
+    \---第一周 树莓派入门
+            pi01.rar
+            树莓派入门指南.pdf
             
